@@ -1,0 +1,6 @@
+O programa deve solicitar
+
+Digite primeira nota
+Digite a segunda nota
+
+Depois mostrar  sua media é:
