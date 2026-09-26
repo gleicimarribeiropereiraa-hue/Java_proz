@@ -1,0 +1,19 @@
+O programa deve solicitar
+
+Digite primeira nota
+Digite a segunda nota
+
+Depois mostrar  sua media é:
+
+
+exercicio 8
+Uma loja dará desconto  dependendo do valor da compra
+
+Compra >=R$500 =>20%
+Compa>=R$200 =>10%
+Abaixo de  R$200 => desconto
+
+O programa deverá mostrar:
+Valor da compra
+Desconto
+Valor Final
