@@ -17,3 +17,12 @@ O programa deverá mostrar:
 Valor da compra
 Desconto
 Valor Final
+
+
+Contagem personalizada
+
+Digite o número inicial
+Digite o número final
+
+Validar senha:Crie um programa que tenha uma senha correta,por exemplo 1234
+O usuário deve continuar digitando enquanto errar
