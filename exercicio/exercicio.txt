@@ -4,3 +4,38 @@ Digite primeira nota
 Digite a segunda nota
 
 Depois mostrar  sua media é:
+
+
+exercicio 8
+Uma loja dará desconto  dependendo do valor da compra
+
+Compra >=R$500 =>20%
+Compa>=R$200 =>10%
+Abaixo de  R$200 => desconto
+
+O programa deverá mostrar:
+Valor da compra
+Desconto
+Valor Final
+
+
+Contagem personalizada
+
+Digite o número inicial
+Digite o número final
+
+Validar senha:Crie um programa que tenha uma senha correta,por exemplo 1234
+O usuário deve continuar digitando enquanto errar
+
+
+Menu calculadora com Dowhile
+
+Crie uma calculadora
+
+1 Somar
+2 Subtrair
+3Multiplicar
+4 Dividir
+5 Sair
+
+O menu deve continuar aparecento  até o usuario escolher 5

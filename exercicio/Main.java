@@ -17,21 +17,30 @@ public class Main {
      double nota = entrada.nextDouble();
      System.out.println("Nota :" + nota);
 
-     System.out.print("Informe a nota 2:");
-     double nota2 = entrada.nextDouble();
-     System.out.println("Nota 2:" + nota2);
+    System.out.print("Informe a nota 2:");
+          
 
-     System.out.print("Informe a nota 3:");
+
+     double nota2 = entrada.nextDouble();
+        System.out.println("Nota 2:" + nota2);
+              System.out.print("Informe a nota 3:");
+      
 
      double nota3 = entrada.nextDouble();
      System.out.println("Nota 3:" + nota3);
 
-     double media = (nota + nota2 + nota3) / 3;
-     System.out.println("Media:" + media);
-     if(media >= 7){
-         System.out.println("Aluno Aprovado");
-      }else{
-         System.out.println("Aluno Reprovado");
-      }
-    }
+     double media = ( nota +nota2 +nota3)/3;
+      System.out.println("Media:"+ media);
+     if(media >=5 ){
+       System.out.println("Recuperação");
+     }else if(media >=7){
+       System.out.println("Aprovado");
+     }else{
+       System.out.println("Reprovado");
+     }
+
+entrada.close();
+
+
+}
 }
